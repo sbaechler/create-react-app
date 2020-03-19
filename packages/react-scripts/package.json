@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
-  "version": "3.4.0",
+  "name": "@sbaechler/react-scripts",
+  "version": "3.4.0-jetbrains",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/sbaechler/create-react-app",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
